@@ -1,5 +1,5 @@
 ### ☕ Hi, I'm Cappu!
-I usually build things with a latte and 3 counts of sugar.  I'm a Computer Science student of De La Salle Lipa from the Philippines. And oh, my work usually consists of game development, networking, microservices, and sometimes a lil bit of reverse-engineering!
+I usually build things with a latte and 3 counts of sugar. Currently a Computer Science student of De La Salle Lipa with my work usually consisting of Game Development, Networking, Microservices, and sometimes a lil bit of Reverse Engineering!
 
 **My Stack 📚**
 <br/>
