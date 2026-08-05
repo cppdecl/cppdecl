@@ -3,7 +3,7 @@ A self-taught developer deep into Game Development, Networking, Microservices, a
 Currently learning Cross-Platform Graphics Programming using BGFX and SDL3. 
 
 ### 🍀 Meaning Behind 'cppdecl'
-Pronounced `C++ Declaration`, basically a play on `__cdecl`, the C calling convention i stumbled upon when hooking into functions on the ABI layer and creating subroutines. Realized a `__cppdecl` doesn't exist so what a nice username :)
+Pronounced `C++ Declaration`, basically a play on `__cdecl`, the C calling convention i stumbled upon when hooking into functions on the ABI layer and creating subroutines. Realized cppdecl doesn't exist so I thought, what a nice username :)
 
 ### 📚 My Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
